@@ -8,7 +8,7 @@
 
 
 <p align="center">
-	<img src="https://github.com/RaffaeleAns/DSIM/blob/master/images/example.gif">
+	<img src="https://github.com/RaffaeleAns/DSIM/blob/master/images/example.gif" width = "600">
 </p>
 
 This repo treats about 3 themes:
